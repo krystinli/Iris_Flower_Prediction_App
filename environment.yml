@@ -1,7 +1,6 @@
 name: Weekend_Project
 channels:
-  - conda-main
-  - conda-forge
+  - defaults
 dependencies:
   - pip=20.0.2
   - pandas==0.25.1
